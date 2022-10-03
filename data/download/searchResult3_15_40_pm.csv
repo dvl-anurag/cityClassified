@@ -1,0 +1,13 @@
+ID,Title,Name,Address,Latitude,Longitude,Website,ContactNumber,User,City,Country,PinCode,UpdatedBy,CategoriesId
+"ObjectID(""6325c3a189ccc9efcf212c06"")",School,DAV,Rajbanshi nagar patna,735.867300,635.456000,www.dav.com,0,rama,patna,india,800010,,"ObjectID(""6325c2af89ccc9efcf212c04"")"
+"ObjectID(""6325c3a189ccc9efcf212c07"")",School,PCS,Mithapur patna,735.437300,435.542376,www.pcs.com,0,rama,patna,india,800026,,"ObjectID(""6325c2af89ccc9efcf212c04"")"
+"ObjectID(""6325c3a189ccc9efcf212c08"")",School,RPS,Patliputra patna,735.857379,635.845980,www.rps.com,0,rama,patna,india,800076,,"ObjectID(""6325c2af89ccc9efcf212c04"")"
+"ObjectID(""6325c3f589ccc9efcf212c09"")",Hospital,PMCH,Rajbanshi nagar patna,735.863000,63.456000,www.dav.com,0,rama,patna,india,80010,,"ObjectID(""6325c2af89ccc9efcf212c04"")"
+"ObjectID(""6325c3f589ccc9efcf212c0a"")",Hospital,Rban,Mithapur patna,735.433000,435.543760,www.ruban.com,0,,patna,india,80026,,"ObjectID(""6325c2af89ccc9efcf212c04"")"
+"ObjectID(""6325c3f589ccc9efcf212c0b"")",School,KSV,Patliputra patna,735.857790,635.849800,www.rksvps.com,0,,patna,india,80076,,"ObjectID(""6325c2af89ccc9efcf212c04"")"
+"ObjectID(""6325ca895eeefa8e2f7e3feb"")",Hospital,PMCH,Rajbanshi nagar patna,735.863000,63.456000,www.dav.com,0,rama,patna,india,80010,,"ObjectID(""6325ca855eeefa8e2f7e3fea"")"
+"ObjectID(""6325ca895eeefa8e2f7e3fec"")",Hospital,Rban,Mithapur patna,735.433000,435.543760,www.ruban.com,0,,patna,india,80026,,"ObjectID(""6325ca855eeefa8e2f7e3fea"")"
+"ObjectID(""6325ca895eeefa8e2f7e3fed"")",Hospital,KSV,Patliputra patna,735.857790,635.849800,www.rksvps.com,0,,patna,india,80076,,"ObjectID(""6325ca855eeefa8e2f7e3fea"")"
+"ObjectID(""6325cae05eeefa8e2f7e3fef"")",School,KVS,Rajbanshi nagar patna,735.865300,63.453600,www.kvs.com,0,rama,patna,india,80010,,"ObjectID(""6325ca9a5eeefa8e2f7e3fee"")"
+"ObjectID(""6325cae05eeefa8e2f7e3ff0"")",School,DAV,Mithapur patna,735.433300,435.537600,www.Dav.com,0,,patna,india,804026,,"ObjectID(""6325ca9a5eeefa8e2f7e3fee"")"
+"ObjectID(""6325cae05eeefa8e2f7e3ff1"")",School,KPR,Patliputra patna,735.857790,635.849800,www.rksvps.com,0,,patna,india,80076,,"ObjectID(""6325ca9a5eeefa8e2f7e3fee"")"
